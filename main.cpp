@@ -10,6 +10,11 @@ int main()
 
 	cout << (2 * 7) + 4 << endl; 
 
+	int num1 = 0;
+
+	cout << num1 + 1 << endl;
+
+
 	
 	return 0;
 }
